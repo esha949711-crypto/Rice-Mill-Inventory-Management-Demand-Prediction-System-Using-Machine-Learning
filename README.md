@@ -1,2 +1,8 @@
-# Rice-Mill-Inventory-Management-Demand-Prediction-System-Using-Machine-Learning
-This project uses historical rice sales, production, purchases, and inventory data to predict future rice demand. The system helps rice mill owners monitor stock levels, identify possible shortages, and make better inventory and reordering decisions using machine learning.
+# pytest cache directory #
+
+This directory contains data from the pytest's cache plugin,
+which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+
+**Do not** commit this to version control.
+
+See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.

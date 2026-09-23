@@ -1,0 +1,26 @@
+{
+  "best_model": "Linear Regression",
+  "train_rows": 86,
+  "test_rows": 22,
+  "test_period": "2024-05-01 to 2024-12-01",
+  "metrics": [
+    {
+      "model": "Linear Regression",
+      "MAE": 6.615,
+      "RMSE": 8.346,
+      "R2": 0.9886
+    },
+    {
+      "model": "Random Forest",
+      "MAE": 8.342,
+      "RMSE": 11.867,
+      "R2": 0.9769
+    },
+    {
+      "model": "Gradient Boosting",
+      "MAE": 13.013,
+      "RMSE": 17.966,
+      "R2": 0.947
+    }
+  ]
+}
